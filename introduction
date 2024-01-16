@@ -1,0 +1,12 @@
+the internat is a wire that allows us to connect our computers and devices across the world. The internet has transformed how we work, play and communicate.
+we bsites like google allow us to search for information instantly. social media like facebook and twitter let us stay connected with friends and family near and far. online
+isp stand for internet service provider. isps maintain the infrastructure like cables and servers that make the internet possible. popular isps include comcast, verizon, at&t and more.
+dns stands for domain name system. dns translates human-friendly domain names like google.com to ip addresses like 172.217.167.46 that computers
+if you are wondering how the internet works under the hood, dns is a key part of the process. when you type a domain name into your browser, a dns server
+and under water cables. dns servers help route your request to the appropriate web server so you can access the content you are looking for. without dns,
+a dns will send the request to the root servers which contain records for the top-level domains like .com, .net, .org etc. then the request is passed
+html5 is used to build modern responsive websites and web applications. it is maintained by the w3c standards organization and supported by all major browsers. some key
+css is used for styling and layout of html elements. it allows specifying things like colors, fonts, spacing etc. common css properties include color, font-family,
+js is the programming language of the web. it is used to make websites interactive and dynamic. common js tasks include form validation, dynamic content display,
+the browser has a js engine that executes the js code. popular js frameworks for building web apps include react, angular and vue. these help manage the flow
+frontend web dev involves html, css and js. backend web dev involves server-side languages like php, python, nodejs and databases. fullstack web dev encompasses both frontend and backend development.
